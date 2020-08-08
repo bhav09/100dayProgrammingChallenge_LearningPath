@@ -10,6 +10,8 @@ Data Types :
 
 Conditional Statements :
 
+Project 1
+
 ### Week 2
 
 Loops :
@@ -20,6 +22,8 @@ File Handling :
 
 Turtle : 
 
+Project 2
+
 ### Week 3
 
 Functions :
@@ -28,7 +32,7 @@ Lambda Function :
 
 map(), filter() , zip() and reduce() :
 
-### Week4
+### Week 4
 
 OOPS concepts :
 
@@ -36,7 +40,7 @@ Classes and Objects :
 
 Inheritance and its types :
 
-### Week5
+### Week 5
 
 Exception Handling :
 
@@ -44,7 +48,7 @@ Date adn Time module :
 
 Time module :
 
-### Week6
+### Week 6
 
 Tkinter :
 
@@ -52,7 +56,7 @@ google_trans :
 
 youtube_dl :
 
-### Week7
+### Week 7
 
 Algovis :
 
@@ -64,3 +68,10 @@ Text to speech :
 
 OCR using pytesseract :
 
+### Week 8 :
+
+Sqllite3 :
+
+Selenium : 
+
+Project
