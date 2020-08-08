@@ -95,36 +95,82 @@ One hour on learning and one hour on implementing what is learned.
 
 ## Week 9 
 
-        ->Numpy 
+    ->Numpy 
         
-        ->Lists vs Numpy array
+    ->Lists vs Numpy array
         
-        ->Pandas
+    ->Pandas
         
 ### Task 9 : Contrasting complexities between List and Numpy array & Converting a data frame to csv file.
 
 ## Week 10
 
-        ->Matplotlib 
+    ->Matplotlib 
         
-        ->Seaborn 
+    ->Seaborn 
         
-        ->Basics of Tableau
+    ->Basics of Tableau
         
 ### Task 10 : Visualizing of Apple stock price via Nasdaq
 
 ## Week 11
 
-        ->Introduction to Machine Learning , types of learning 
+    ->Introduction to Machine Learning , types of learning 
         
-        ->Data Preprocessing
+    ->Data Preprocessing
         
-        ->Linear Algebra
+    ->Linear Algebra
         
 ### Task 11 : Start off with Titanic data set (data preprocessing)
 
 ## Week 12
 
-        ->Regression 
+    Regression 
+    
+        ->Linear
         
+        ->Multiple 
+        
+        ->Polynomial
+        
+        ->Logistic
+        
+### Task 12 : Kaggle the data sets out and start smashing them!
+
+## Week 13
+
+    Regression Continued
+    
+        ->Support Vector Regressor
+        
+        ->Decision Tree Regressor
+        
+        ->Random Forest Regressor
+        
+        ->XG Boost Regressor
+        
+        ->AdaBoost Regressor
+        
+### Task 13 : Fish the datasets and compare the algorithms in terms of accuracy.
+
+## Week 14 (Last 9 Days)
+
+    Classification
+    
+        ->KNN
+        
+        ->Support Vector Classifier
+        
+        ->Naive Bayes
+        
+        ->Decision Tree Classifier
+        
+        ->Random Forest Classifier
+        
+        ->XG Boost Classifier
+        
+        ->AdaBoost Classifier
+        
+    Computer Vision using Open CV
+    
         
