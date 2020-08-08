@@ -8,7 +8,7 @@ The path is to take you from a Toddler in Python to a Swordsman in Machine Learn
 Points to ponder
 * Follow these things even if you know them do not skip any. By following and practicing the ones you already know will help you in making a momentum for the challenge.
 
-* Resources are being provided in the respective folders.
+* Resources are provided in the respective folders.
 
 ------------------------------------------------------------------------------------------------------------------------
 
