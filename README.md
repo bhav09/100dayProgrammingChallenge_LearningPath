@@ -48,11 +48,11 @@ Points to ponder
 
 ## Week 4
 
-    ->OOPS concepts :
+    ->OOPS concepts 
 
-    ->Classes and Objects :
+    ->Classes and Objects 
 
-    ->Inheritance and its types :
+    ->Inheritance and its types 
 
 ### Task 4 : To implement the concepts learned in this week
 
