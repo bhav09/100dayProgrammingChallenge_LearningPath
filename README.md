@@ -3,88 +3,90 @@
 A learning path dedicated for the ones who want to start their journey of 100 day programming challenge.One needs to dedicate not more than 2 hours of the day on this. 
 One hour on learning and one hour on implementing what is learned.
 
+------------------------------------------------------------------------------------------------------------------------
 
+## Overview ##
 
 ## Week 1
 
-->Variables 
+    ->Variables 
 
-->Data Types 
+    ->Data Types 
 
-->Conditional Statements 
+    ->Conditional Statements 
 
-### Task 1 Menu driven Switch case based Calculator
+### Task 1 : Menu driven Switch case based Calculator
 
 ## Week 2
 
-->Loops 
+    ->Loops 
 
-->Pattern Printing 
+    ->Pattern Printing 
 
-->File Handling 
+    ->File Handling 
 
-->Turtle 
+    ->Turtle 
 
 ### Task 2 : Funky design using turtle
 
 ## Week 3
 
-->Functions 
+    ->Functions 
 
-->Lambda Function 
+    ->Lambda Function 
 
-->map(), filter() , zip() and reduce() 
+    ->map(), filter() , zip() and reduce() 
 
 ### Task 3 : To implement the concepts learned in this week 
 
 ## Week 4
 
-->OOPS concepts :
+    ->OOPS concepts :
 
-->Classes and Objects :
+    ->Classes and Objects :
 
-->Inheritance and its types :
+    ->Inheritance and its types :
 
 ### Task 4 : To implement the concepts learned in this week
 
 ## Week 5
 
-->Exception Handling :
+    ->Exception Handling 
 
-->Date adn Time module :
+    ->Date adn Time module 
 
-->Time module :
+    ->Time module 
 
 ### Task 5 : A stop watch
 
 ## Week 6
 
-->Tkinter :
+    ->Tkinter 
 
-->google_trans :
+    ->google_trans 
 
-->youtube_dl :
+    ->youtube_dl 
 
 ### Task 6: Youtube Video Downloader
 
 ## Week 7
 
-->Algovis :
+    ->Algovis 
 
-->Speechrecog :
+    ->Speechrecog 
 
-->Sending Mail (SMTP) :
+    ->Sending Mail (SMTP) 
 
-->Text to speech :
+    ->Text to speech :
 
-->->OCR using pytesseract :
+    ->->OCR using pytesseract 
 
 ### Task 7 : 
 
-## Week 8 :
+## Week 8 
 
-->Sqllite3 :
+    ->Sqllite3 
 
-->Selenium : 
+    ->Selenium  
 
 Project
