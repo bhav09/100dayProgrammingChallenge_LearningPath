@@ -1,7 +1,9 @@
 # 100ProgrammingChallenge_LearningPath
 
 A learning path dedicated for the ones who want to start their journey of 100 day programming challenge.One needs to dedicate not more than 2 hours of the day on this. 
-One hour on learning and one hour on implementing what is learned.
+One hour on learning and one hour on implementing what is learned. 
+
+The path is to take you from a Toddler in Python to a Swordsman in Machine Learning ;)
 
 ------------------------------------------------------------------------------------------------------------------------
 
