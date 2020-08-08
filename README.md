@@ -14,6 +14,8 @@ Points to ponder
 
 ## Overview ##
 
+How to install Python tutorial : https://github.com/bhav09/python_zero_to_hero
+
 ## Week 1
 
     ->Variables 
