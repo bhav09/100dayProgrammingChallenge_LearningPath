@@ -5,6 +5,8 @@ One hour on learning and one hour on implementing what is learned.
 
 The path is to take you from a Toddler in Python to a Swordsman in Machine Learning ;)
 
+Follow these things even if you know them do not skip any. By following and practicing the ones you already know will help you in making a momentum for the challenge.
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ## Overview ##
