@@ -173,4 +173,10 @@ One hour on learning and one hour on implementing what is learned.
         
     Computer Vision using Open CV
     
-        
+## Extras (if you complete all these things before the deadline)
+
+    ->Clustering
+    
+    ->PCA and LDA
+    
+    ->ANN , CNN , RNN
