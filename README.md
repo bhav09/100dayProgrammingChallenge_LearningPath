@@ -30,4 +30,37 @@ map(), filter() , zip() and reduce() :
 
 ### Week4
 
+OOPS concepts :
+
+Classes and Objects :
+
+Inheritance and its types :
+
+### Week5
+
+Exception Handling :
+
+Date adn Time module :
+
+Time module :
+
+### Week6
+
+Tkinter :
+
+google_trans :
+
+youtube_dl :
+
+### Week7
+
+Algovis :
+
+Speechrecog :
+
+Sending Mail (SMTP) :
+
+Text to speech :
+
+OCR using pytesseract :
 
