@@ -2,7 +2,7 @@
 
 A learning path dedicated for the ones who want to start their journey of 100 day programming challenge.
 
-### Week 1
+## Week 1
 
 Variables :
 
@@ -10,9 +10,9 @@ Data Types :
 
 Conditional Statements :
 
-Project 1
+### Project 
 
-### Week 2
+## Week 2
 
 Loops :
 
@@ -22,9 +22,9 @@ File Handling :
 
 Turtle : 
 
-Project 2
+### Project 2
 
-### Week 3
+## Week 3
 
 Functions :
 
@@ -32,7 +32,7 @@ Lambda Function :
 
 map(), filter() , zip() and reduce() :
 
-### Week 4
+## Week 4
 
 OOPS concepts :
 
@@ -40,7 +40,7 @@ Classes and Objects :
 
 Inheritance and its types :
 
-### Week 5
+## Week 5
 
 Exception Handling :
 
@@ -48,7 +48,7 @@ Date adn Time module :
 
 Time module :
 
-### Week 6
+## Week 6
 
 Tkinter :
 
@@ -56,7 +56,7 @@ google_trans :
 
 youtube_dl :
 
-### Week 7
+## Week 7
 
 Algovis :
 
@@ -68,7 +68,7 @@ Text to speech :
 
 OCR using pytesseract :
 
-### Week 8 :
+## Week 8 :
 
 Sqllite3 :
 
