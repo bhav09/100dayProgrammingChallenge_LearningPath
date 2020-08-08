@@ -81,12 +81,43 @@ One hour on learning and one hour on implementing what is learned.
 
     ->->OCR using pytesseract 
 
-### Task 7 : 
+### Task 7 : Writing content into a text file using speech recognition.
 
 ## Week 8 
 
     ->Sqllite3 
 
     ->Selenium  
+    
+    -> Beautiful soup
 
-Project
+### Task 8 : Scrapping websites via Selenium/Beautiful Soup and Speech Recognition.
+
+## Week 9 
+
+        ->Numpy 
+        
+        ->Lists vs Numpy array
+        
+        ->Pandas
+        
+### Task 9 : Contrasting complexities between List and Numpy array & Converting a data frame to csv file.
+
+## Week 10
+
+        ->Matplotlib 
+        
+        ->Seaborn 
+        
+        ->Basics of Tableau
+        
+### Task 10 : Visualizing of Apple stock price via Nasdaq
+
+## Week 11
+
+        ->Data Preprocessing
+        
+        ->Linear Algebra
+        
+## Task 11 : Start off with Titanic data set (data preprocessing)
+
