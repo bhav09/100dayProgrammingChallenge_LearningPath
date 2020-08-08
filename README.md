@@ -19,3 +19,15 @@ Pattern Printing :
 File Handling :
 
 Turtle : 
+
+### Week 3
+
+Functions :
+
+Lambda Function :
+
+map(), filter() , zip() and reduce() :
+
+### Week4
+
+
