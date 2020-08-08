@@ -66,18 +66,18 @@ One hour on learning and one hour on implementing what is learned.
     ->google_trans 
 
     ->youtube_dl 
+    
+     ->Algovis
 
 ### Task 6: Youtube Video Downloader
 
 ## Week 7
 
-    ->Algovis 
-
     ->Speechrecog 
 
     ->Sending Mail (SMTP) 
 
-    ->Text to speech :
+    ->Text to speech 
 
     ->->OCR using pytesseract 
 
@@ -115,9 +115,16 @@ One hour on learning and one hour on implementing what is learned.
 
 ## Week 11
 
+        ->Introduction to Machine Learning , types of learning 
+        
         ->Data Preprocessing
         
         ->Linear Algebra
         
-## Task 11 : Start off with Titanic data set (data preprocessing)
+### Task 11 : Start off with Titanic data set (data preprocessing)
 
+## Week 12
+
+        ->Regression 
+        
+        
