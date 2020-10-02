@@ -1,5 +1,7 @@
 # 100daysProgrammingChallenge_LearningPath
 
+
+
 A learning path dedicated for the ones who want to start their journey of 100 day programming challenge.One needs to dedicate not more than 2 hours of the day on this. 
 One hour on learning and one hour on implementing what is learned. 
 
@@ -14,7 +16,7 @@ Points to ponder
 
 ## Overview ##
 
-How to install Python tutorial : https://github.com/bhav09/python_zero_to_hero
+How to install Python <a href="https://github.com/bhav09/python_zero_to_hero">Tutorial</a>
 
 ## Week 1
 
@@ -189,3 +191,4 @@ How to install Python tutorial : https://github.com/bhav09/python_zero_to_hero
     ->PCA and LDA
     
     ->ANN , CNN , RNN
+ 
