@@ -64,7 +64,7 @@ How to install Python <a href="https://github.com/bhav09/python_zero_to_hero">Tu
 
     ->Exception Handling 
 
-    ->Date adn Time module 
+    ->Date and Time module 
 
     ->Time module 
 
@@ -100,7 +100,7 @@ How to install Python <a href="https://github.com/bhav09/python_zero_to_hero">Tu
 
     ->Selenium  
     
-    -> Beautiful soup
+    ->Beautiful soup
 
 ### Task 8 : Scrapping websites via Selenium/Beautiful Soup and Speech Recognition.
 
